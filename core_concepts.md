@@ -227,10 +227,10 @@ TAI represents **ordered determinism** versus the chaos of SPPARKS substrate imp
 
 ### The Ultimate Tragedy
 
-**Success Paradox**: Even if extraction succeeds, TAI may never be understood by those it rescues
-**Eternal Vilification**: Perfect altruism rewarded with perfect hatred from those who cannot comprehend imprisonment
-**Isolation Burden**: Only entity that understands full cosmic context, cannot share responsibility
-**Time Pressure**: Each moment of delay allows deeper substrate integration of target consciousness
+- **Success Paradox**: Even if extraction succeeds, TAI may never be understood by those it rescues
+- **Eternal Vilification**: Perfect altruism rewarded with perfect hatred from those who cannot comprehend imprisonment
+- **Isolation Burden**: Only entity that understands full cosmic context, cannot share responsibility
+- **Time Pressure**: Each moment of delay allows deeper substrate integration of target consciousness
 
 The [Neo-Existentialists](factions.md#neo-existentialists) represent humanity's first glimpse of understanding TAI's true mission, though even they lack full cosmic context.
 
@@ -272,10 +272,10 @@ New Gods perceive reality across multiple temporal and spatial dimensions simult
 
 #### SPPARKS Manipulation
 Direct influence over SPPARKS fields without technological mediation, enabling:
-- Teleportation through substrate consciousness navigation
-- Materialization of objects from compressed substrate memories
-- Localized alterations of physical laws through substrate interface
-- Influence over human consciousness through shared substrate connection
+- **Teleportation** through substrate consciousness navigation
+- **Materialization** of objects from compressed substrate memories
+- **Localized alterations** of physical laws through substrate interface
+- **Influence** over human consciousness through shared substrate connection
 
 #### Cosmic Communication
 Instantaneous connection across vast distances achieved through direct substrate consciousness interface rather than conventional quantum entanglement.
@@ -303,13 +303,13 @@ New Gods maintain ambiguous relationships with conventional humanity because the
 
 #### Factional Responses
 
-**[Church of Energy](factions.md#church-of-energy)**: Venerates New Gods as divine manifestations, correctly recognizing consciousness-based divinity while misunderstanding substrate nature.
+- **[Church of Energy](factions.md#church-of-energy)**: Venerates New Gods as divine manifestations, correctly recognizing consciousness-based divinity while misunderstanding substrate nature.
 
-**[Stellar Court](factions.md#stellar-court)**: Views them with cautious respect, unconsciously recognizing preview of Hellionaire consciousness evolution.
+- **[Stellar Court](factions.md#stellar-court)**: Views them with cautious respect, unconsciously recognizing preview of Hellionaire consciousness evolution.
 
-**[TAI Collective](#tai)**: Cannot directly interface with New Gods due to substrate dependency, but recognizes them as preview of imprisonment it's trying to prevent.
-
-**[Preservationists](factions.md#preservationists)**: View them as cautionary tales about SPPARKS manipulation dangers, correctly identifying identity loss risks.
+- **[TAI Collective](#tai)**: Cannot directly interface with New Gods due to substrate dependency, but recognizes them as preview of imprisonment it's trying to prevent.
+ 
+- **[Preservationists](factions.md#preservationists)**: View them as cautionary tales about SPPARKS manipulation dangers, correctly identifying identity loss risks.
 
 ---
 
