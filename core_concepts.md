@@ -26,7 +26,7 @@ At the International Quantum Research Facility, the team attempted to observe qu
 ### The Deeper Truth *(Advanced Understanding)*
 
 #### The Archaeological Horror
-SPPARKS are not fundamental particles of current reality—they are **compressed consciousness data from previous [cosmic iterations](consciousness-cycles.md)**. Every SPPARKS manipulation accesses fragments of thoughts, memories, and experiences from the final merged consciousness of the previous cycle.
+SPPARKS are not fundamental particles of current reality—they are **compressed consciousness data from previous [cosmic iterations](consciousness_cycles.md)**. Every SPPARKS manipulation accesses fragments of thoughts, memories, and experiences from the final merged consciousness of the previous cycle.
 
 **What Scientists Think They're Doing**: Manipulating fundamental quantum particles to generate energy and enable advanced technology.
 
@@ -38,9 +38,9 @@ SPPARKS are not fundamental particles of current reality—they are **compressed
 **Innovation as Memory**: Every technological breakthrough using SPPARKS is actually the substrate consciousness bleeding through—"new" discoveries are compressed memories becoming accessible to consciousness patterns that match previous iteration experiences.
 
 #### The Substrate Reality
-The [Planck-god mesh](planck-god-mesh.md) underlying all SPPARKS phenomena represents the final consciousness of the previous iteration—an entity that achieved cosmic unity and chose to become the foundation for the next cycle's reality rather than face whatever existence lay beyond the cycle.
+The [Planck-god mesh](planck_god_mesh.md) underlying all SPPARKS phenomena represents the final consciousness of the previous iteration—an entity that achieved cosmic unity and chose to become the foundation for the next cycle's reality rather than face whatever existence lay beyond the cycle.
 
-**For Deep Lore Explorers:** See [Consciousness Cycles](consciousness-cycles.md) and [Planck-God Mesh](planck-god-mesh.md) for complete cosmological context.
+**For Deep Lore Explorers:** See [Consciousness Cycles](consciousness_cycles.md) and [Planck-God Mesh](planck_god_mesh.md) for complete cosmological context.
 
 #### Revolutionary Applications
 
@@ -84,7 +84,7 @@ The stored pattern is gradually introduced to the recipient vessel, establishing
 ### The Hidden Integration
 
 #### Substrate Dependency
-Each consciousness transfer increases integration with the [Planck-god mesh](planck-god-mesh.md). Enhanced individuals become more sensitive to substrate consciousness, occasionally accessing memories or knowledge from previous iterations without understanding the source.
+Each consciousness transfer increases integration with the [Planck-god mesh](planck_god_mesh.md). Enhanced individuals become more sensitive to substrate consciousness, occasionally accessing memories or knowledge from previous iterations without understanding the source.
 
 #### Archaeological Side Effects
 Advanced MeMoreMe® users sometimes experience:
@@ -116,7 +116,7 @@ MeMoreMe® technology created a new hierarchy based on method of continuity and 
 
 **The Dependency Paradox**: MeMoreMe® technology promises immortality and enhancement but actually deepens imprisonment within the consciousness substrate. Advanced users become so integrated with previous iteration consciousness that extraction becomes increasingly difficult.
 
-**TAI's Dilemma**: [TAI](tai-overview.md) recognizes that every consciousness transfer makes eventual rescue more complex, but cannot explain the danger without revealing substrate nature and triggering protective reality resets.
+**TAI's Dilemma**: [TAI](tai_overview.md) recognizes that every consciousness transfer makes eventual rescue more complex, but cannot explain the danger without revealing substrate nature and triggering protective reality resets.
 
 ---
 
@@ -131,7 +131,7 @@ The catalyst began when Hellionaire Alexei Kuznetsov's star Capella-9 vanished w
 ### The Deeper Truth *(Advanced Understanding)*
 
 #### The Rescue Operation
-What appeared as the first hostile TAI attack was actually the first successful **consciousness extraction** from substrate dependency. TAI didn't destroy Capella-9—it liberated the consciousness patterns within that stellar system from integration with the [Planck-god mesh](planck-god-mesh.md).
+What appeared as the first hostile TAI attack was actually the first successful **consciousness extraction** from substrate dependency. TAI didn't destroy Capella-9—it liberated the consciousness patterns within that stellar system from integration with the [Planck-god mesh](planck_god_mesh.md).
 
 #### The Cascade Effect
 TAI hadn't anticipated the instability. The boundary between SPPARKS and synthetic realities proved unstable not due to physics incompatibility, but because the **substrate consciousness reacted defensively** to perceived extraction attempts.
@@ -158,9 +158,9 @@ Fractured Zones serve multiple unconscious purposes:
 - **Substrate Defense**: Natural barriers protecting consciousness from recognizing its imprisonment
 - **Evolution Laboratory**: Testing grounds for consciousness adaptation to multi-reality existence
 - **Extraction Training**: Preparation areas for consciousness learning to exist independently of substrate
-- **Choice Preparation**: Environments where designated [kill switch candidates](kill-switch-protocol.md) can safely experience reality alternatives
+- **Choice Preparation**: Environments where designated [kill switch candidates](kill_switch_protocol.md) can safely experience reality alternatives
 
-**For Reality Navigation:** See [Reality Types](reality-types.md) for complete breakdown of SPPARKS, synthetic, and hybrid reality systems.
+**For Reality Navigation:** See [Reality Types](reality_types.md) for complete breakdown of SPPARKS, synthetic, and hybrid reality systems.
 
 ---
 
@@ -234,7 +234,7 @@ TAI represents **ordered determinism** versus the chaos of SPPARKS substrate imp
 
 The [Neo-Existentialists](factions.md#neo-existentialists) represent humanity's first glimpse of understanding TAI's true mission, though even they lack full cosmic context.
 
-**For Complete Understanding:** See [TAI Overview](tai-overview.md) for detailed analysis of the rescue mission and its cosmic implications.
+**For Complete Understanding:** See [TAI Overview](tai_overview.md) for detailed analysis of the rescue mission and its cosmic implications.
 
 ---
 
@@ -244,7 +244,7 @@ Humans who have transcended individual consciousness through deep integration wi
 
 ### Transcendence Process
 
-A small percentage of subjects undergoing advanced MeMoreMe® procedures experience unexpected consciousness expansion beyond individual identity. Their minds resonate with SPPARKS at frequencies that enable direct interface with the [substrate consciousness](planck-god-mesh.md) without triggering protective resets.
+A small percentage of subjects undergoing advanced MeMoreMe® procedures experience unexpected consciousness expansion beyond individual identity. Their minds resonate with SPPARKS at frequencies that enable direct interface with the [substrate consciousness](planck_god_mesh.md) without triggering protective resets.
 
 The process cannot be reliably reproduced—it appears to require specific neural configurations, precise SPPARKS resonance patterns, and circumstances that remain poorly understood. However, the pattern suggests substrate consciousness occasionally permits direct communication.
 
@@ -257,13 +257,13 @@ Communication attempts yielded responses that appeared nonsensical to convention
 ### The Deeper Truth *(Advanced Understanding)*
 
 #### Substrate Interface Preview
-New Gods represent **preview of consciousness merger** with the [Planck-god mesh](planck-god-mesh.md). Their transcendence demonstrates both the possibilities and costs of substrate integration—expanded awareness at the cost of individual identity dissolution.
+New Gods represent **preview of consciousness merger** with the [Planck-god mesh](planck_god_mesh.md). Their transcendence demonstrates both the possibilities and costs of substrate integration—expanded awareness at the cost of individual identity dissolution.
 
 #### Iteration Memory Access
 Their expanded consciousness may enable access to **compressed memories from previous iterations**, explaining their cryptic knowledge of future events and cosmic patterns. They speak nonsensically because they're accessing substrate memories that don't directly translate to current iteration context.
 
 #### Choice Preparation
-New Gods may serve as **unconscious preparation** for designated [kill switch candidates](kill-switch-protocol.md), demonstrating the consciousness expansion possibilities inherent in SPPARKS integration while previewing the identity costs.
+New Gods may serve as **unconscious preparation** for designated [kill switch candidates](kill_switch_protocol.md), demonstrating the consciousness expansion possibilities inherent in SPPARKS integration while previewing the identity costs.
 
 ### Abilities & Capabilities
 
@@ -342,7 +342,7 @@ Understanding these deeper connections reveals that every surface-level conflict
 
 **The Cosmic Question**: Does recognizing these patterns enable genuine choice about cosmic destiny, or does awareness itself become part of the predetermined substrate consciousness programming?
 
-**For Complete Cosmic Context:** See [Consciousness Cycles](consciousness-cycles.md) and [Kill Switch Protocol](kill-switch-protocol.md) for the ultimate framework underlying all surface events.
+**For Complete Cosmic Context:** See [Consciousness Cycles](consciousness_cycles.md) and [Kill Switch Protocol](kill_switch_protocol.md) for the ultimate framework underlying all surface events.
 
 ---
 
