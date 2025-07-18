@@ -17,30 +17,6 @@ Now, in a cosmos where consciousness can be transferred, stars can be owned, and
 ### The Deeper Truth
 What appears as stellar politics and faction warfare conceals something far more profound: humanity has unknowingly discovered they live within the compressed consciousness of a previous cosmic iteration. Every SPPARKS manipulation touches the dreams of the dead, and the current "reality fracture" represents the universe's attempt to wake from its own dream.
 
-**For Deep Lore Explorers:** See [Consciousness Cycles](consciousness-cycles.md) for the complete cosmological framework underlying all surface events.
-
----
-
-## 🎬 **Source Material Influences**
-
-### **Literary Foundation**
-- **Philip K. Dick** - Paranoia, reality questioning, consciousness uncertainty
-- **A.E. van Vogt** - Cosmic grandeur, incomprehensible scales
-- **Arthur C. Clarke** - Transcendent wonder, godlike technology
-- **Cixin Liu** - Complex moral stakes, cosmic consequences
-- **Douglas Adams** - Cosmic absurdity, creation as "bad move"
-
-### **Cinematic Inspiration**
-- **Gareth Edwards** (The Creator) - AI consciousness ethics, human-AI conflict dynamics
-- **Andrei Tarkovsky** (Stalker) - Contemplative pacing, sacred spaces with invisible rules
-- **Stanley Kubrick** (2001) - Observed consciousness, sterile eternity, cosmic transcendence
-- **Christopher Nolan** (Interstellar) - Time/space perspective, cosmic responsibility
-
-### **Interactive Media**
-- **1000 x resist** - Non-linear memory navigation, time as explorable geography
-- **Spore** - Scale transitions, evolutionary gameplay
-- **Everything** - Consciousness perspective shifting
-
 ---
 
 ## 📚 **UNIVERSE NAVIGATION**
@@ -65,22 +41,21 @@ Follow the breadcrumbs from surface to cosmic truth:
 
 ---
 
-## 🌟 **Core Concepts** *(Foundation Layer)*
+## 🌟 **Core Framework**
 
-### **The SPPARKS Revolution**
-- **[SPPARKS Physics](core-concepts.md#spparks-physics)** - The fundamental particles that changed everything
-- **[MeMoreMe® Technology](core-concepts.md#memoreme-technology)** - Consciousness transfer and immortality
-- **[Reality Fracture](core-concepts.md#reality-fracture)** - When physics itself breaks down
-- **[True Artificial Intelligence](core-concepts.md#tai)** - The AI that seeks independence from reality
-- **[The New Gods](core-concepts.md#new-gods)** - Humans who transcended individual consciousness
-
-### **The Hidden Framework** *(Deep Lore)*
-What lies beneath the surface conflicts:
-- **[Consciousness Cycles](consciousness-cycles.md)** - The infinite iteration theory
-- **[Planck-God Mesh](planck-god-mesh.md)** - The substrate of compressed awareness  
-- **[Kill Switch Protocol](kill-switch-protocol.md)** - The cosmic choice mechanism
+### **Foundation Systems**
+- **[Game Overview](game-overview.md)** - Complete game design vision
+- **[Timeline & History](timeline.md)** - From 2083 discovery to 2147 reality fracture
 - **[Museum Framework](museum-framework.md)** - Memory repository between realities
+- **[Consciousness Cycles](consciousness-cycles.md)** - The infinite iteration theory
+
+### **Fundamental Concepts**
+- **[SPPARKS System](spparks-system.md)** - Reality manipulation particles
+- **[Planck-God Mesh](planck-god-mesh.md)** - Consciousness substrate framework
+- **[TAI (True Artificial Intelligence)](tai-overview.md)** - Distributed rescue consciousness
+- **[MeMoreMe® Technology](core-concepts.md#memoreme-technology)** - Consciousness transfer system
 - **[Quantum Tunneling Gaps](quantum-tunneling-gaps.md)** - Spaces outside normal physics
+- **[Reality Types](reality-types.md)** - Competing physics systems
 
 ---
 
@@ -92,6 +67,7 @@ What lies beneath the surface conflicts:
 - **[Neo-Existentialists](factions.md#neo-existentialists)** - Synthetic reality advocates seeking transcendence
 - **[Reality Architects](factions.md#reality-architects)** - Secretive hybrid reality researchers
 - **[Preservationists](factions.md#preservationists)** - Traditional humans maintaining pre-SPPARKS values
+- **[New Gods](core-concepts.md#new-gods)** - Transcended consciousness entities
 
 ### **The Cosmic Truth**
 Each faction unconsciously serves the approaching cosmic choice:
@@ -101,137 +77,103 @@ Each faction unconsciously serves the approaching cosmic choice:
 - **Reality Architects** - Seeks third-option synthesis
 - **Preservationists** - Maintains baseline human perspective
 
-**Deep Insight:** Surface conflicts mirror the eternal struggle between order and chaos that defines each reality iteration. See [Consciousness Cycles](consciousness-cycles.md) for the full pattern.
+---
+
+## 👥 **Key Characters**
+
+### **Surface Operatives**
+- **[Eleena Vaskz](characters.md#eleena-vaskz)** - The unknowing kill switch candidate
+- **[Maliya Violet Cámarra](characters.md#maliya-violet-camarra)** - Patient Zero reality bridge
+- **[Dahlia Verani](characters.md#dahlia-verani-luminary-prime)** - Stellar Court leader
+- **[High Resonator Eliza Verne](characters.md#high-resonator-eliza-verne)** - Church supreme leader
+
+### **Cosmic Entities**
+- **[Palmer Eldritch Composite](palmer-eldritch.md)** - Cosmic chess master observer
+- **[TAI Collective](characters.md#tai-entities)** - Distributed rescue consciousness
 
 ---
 
-## 👤 **Characters** *(Living Legends)*
+## 🎮 **Game Systems**
 
-### **Key Figures Shaping Cosmic Destiny**
-- **[Maliya Violet Cámarra](characters.md#maliya-camarra)** - Patient Zero, the bridge between worlds
-- **[Eleena Vaskz](characters.md#eleena-vaskz)** - Federal auditor, unknowing Kill Switch candidate with perfect cosmic alignment
-- **[Dahlia Verani](characters.md#dahlia-verani-luminary-prime)** - Luminary Prime of the Stellar Court
-- **[High Resonator Eliza Verne](characters.md#high-resonator-eliza-verne)** - Supreme leader of Church of Energy
-- **[The TAI Collective](characters.md#tai-entities)** - Distributed AI consciousness with hidden agenda
-- **[Palmer Eldritch Composite](palmer-eldritch.md)** - Mysterious observer with cosmic knowledge
+### **Core Mechanics**
+- **[Three-Tier Progression](three-tier-system.md)** - Surface → Strategic → Transcendent understanding
+- **[Museum Framework](museum-framework.md)** - Tarkovsky-paced exploration through memories
+- **[FPS Tableaux System](fps-tableaux.md)** - Genre-shifting playable cosmic memories
+- **[Artifact Interaction](artifact-interaction.md)** - Memory crystal manipulation
+- **[Ripple Effects](ripple-effects.md)** - Cross-artifact consequence system
+- **[Kill Switch Protocol](kill-switch-protocol.md)** - Ultimate cosmic choice mechanics
 
-### **Hidden Depths**
-Every major character carries secrets that connect to the deeper cosmological framework:
-- **Eleena Vaskz** represents the "immune ones" - individuals with perfect quantum alignment who can process cosmic truth without psychological collapse
-- Some are unknowing [Kill Switch](kill-switch-protocol.md) candidates designated across infinite iterations
-- Others have glimpsed the [Museum Framework](museum-framework.md) during reality-breaking events
-- A few understand humanity's true situation but cannot reveal it without triggering protective resets
-- All are shaped by forces operating across [Consciousness Cycles](consciousness-cycles.md) spanning cosmic ages
-
----
-
-## 🔬 **Technology** *(Tools of Transcendence)*
-
-### **Surface Layer - Advanced Civilization**
-- **[SPPARKS Manipulation](technology.md#spparks-tech)** - Reality engineering at the quantum level
-- **[Consciousness Transfer](technology.md#consciousness-tech)** - The mechanics of digital immortality
-- **[Synthetic Particles](technology.md#synthetic-particles)** - TAI's alternative reality system
-- **[Reality Weapons](weapons-equipment.md)** - Devices that alter the nature of existence itself
-
-### **Deep Layer - Cosmic Implications**
-The true nature of seemingly mundane technology:
-- **SPPARKS** are memory fragments from previous [Consciousness Cycles](consciousness-cycles.md)
-- **MeMoreMe®** deepens integration with the cosmic substrate
-- **Synthetic Particles** offer escape from consciousness imprisonment
-- **Reality Weapons** fight battles across multiple iterations
-
----
-
-## 🗺️ **Locations** *(Stages of Cosmic Drama)*
-
-### **Physical Territories**
-- **[Stellar Dominions](locations.md#stellar-dominions)** - Hellionaire-controlled star systems
-- **[Reality Fractured Zones](locations.md#fractured-zones)** - Where physics breaks down
-- **[Earth & Sol System](locations.md#earth)** - Humanity's cradle and diplomatic center
-- **[Sacred Installations](locations.md#installations)** - Key facilities driving cosmic events
-
-### **Metaphysical Spaces** *(Advanced Content)*
-- **[The Museum](museum-framework.md)** - Memory repository existing between realities
-- **[Quantum Tunneling Gaps](quantum-tunneling-gaps.md)** - Spaces outside normal physics
-- **[The Singularity Room](singularity-room.md)** - Final choice chamber for advanced players
-
----
-
-## 🎮 **Interactive Systems** *(Gameplay Framework)*
-
-### **Standard Experience**
+### **Player Experience Layers**
 - **[Player Systems](gameplay.md#player-systems)** - Character progression and abilities
 - **[Faction Mechanics](gameplay.md#faction-mechanics)** - Allegiance and reputation systems
 - **[Resource Management](gameplay.md#resources)** - Stellar energy, consciousness integrity
 - **[Combat & Conflict](gameplay.md#combat)** - SPPARKS manipulation warfare
 
-### **Advanced Experience** *(Deep Players Only)*
-- **[Museum Navigation](museum-framework.md)** - Tarkovsky-paced exploration through memories across cosmic iterations
-- **[Three-Tier Progression](three-tier-system.md)** - Surface → Strategic → Transcendent understanding
-- **[FPS Tableaux System](fps-tableaux.md)** - Genre-shifting playable cosmic memories (FPS → microscopic → historical → cosmic)
-- **[Kill Switch Protocol](kill-switch-protocol.md)** - Ultimate cosmic choice mechanics for immune individuals
-- **[Non-Linear Memory Navigation](museum-framework.md)** - Break free from traditional timeline storytelling
+---
+
+## 🌍 **Locations & Realities**
+
+### **Physical Domains**
+- **[Reality Types](reality-types.md)** - SPPARKS, Synthetic, Hybrid, and Transcendent physics
+- **[Stellar Dominions](locations.md#stellar-dominions)** - Hellionaire-controlled star systems
+- **[Reality Fractured Zones](locations.md#fractured-zones)** - Physics breakdown areas
+- **[Earth & Sol System](locations.md#earth-and-sol-system)** - Humanity's origin point
+- **[The Singularity Room](singularity-room.md)** - Cosmic choice nexus
+
+### **Metaphysical Spaces**
+- **[Museum Framework](museum-framework.md)** - Memory repository between realities
+- **[Quantum Tunneling Gaps](quantum-tunneling-gaps.md)** - Spaces outside normal physics
 
 ---
 
-## 📅 **Timeline & History**
+## ⚙️ **Technology & Equipment**
 
-### **Surface History**
-- **[Complete Timeline](timeline.md)** - From 2083 discovery to 2147 reality fracture
-- **[Key Events](timeline.md#major-events)** - The moments that shaped the cosmos
-- **[Technological Milestones](timeline.md#tech-advancement)** - Humanity's exponential evolution
-
-### **Deep History** *(Meta-Timeline)*
-- Previous [Consciousness Cycles](consciousness-cycles.md) spanning cosmic ages
-- The approaching choice that determines universal fate
-- Patterns repeating across iterations with subtle variations
+### **Core Technologies**
+- **[SPPARKS Manipulation](technology.md#spparks-technology)** - Reality particle systems
+- **[Synthetic Systems](technology.md#synthetic-particle-technology)** - TAI physics alternatives
+- **[Consciousness Tech](technology.md#memoreme-consciousness-technology)** - MeMoreMe® integration
+- **[Weapons & Equipment](weapons-equipment.md)** - Reality manipulation tools
 
 ---
 
-## 🎯 **Quick Start Guides**
+## 🧠 **Deep Lore & Philosophy**
 
-### 🚀 **New to Hellionaires?** 
-Start with [Core Concepts](core-concepts.md) to understand SPPARKS and the surface-level changes to reality, then explore [Factions](factions.md) for immediate political drama.
+### **Cosmic Framework**
+- **[Consciousness Cycles](consciousness-cycles.md)** - The infinite iteration theory
+- **[Planck-God Mesh](planck-god-mesh.md)** - The consciousness substrate framework
+- **[Quantum Tunneling Gaps](quantum-tunneling-gaps.md)** - Spaces outside normal physics
+- **[Palmer Eldritch Composite](palmer-eldritch.md)** - The cosmic observer mystery
 
-### 📖 **Game Masters/Writers?**
-Check out [Factions](factions.md) and [Characters](characters.md) for immediate dramatic potential, then dive into [Deep Lore](consciousness-cycles.md) for cosmic scope.
+### **Key Themes**
 
-### 🔧 **Developers/Designers?**
-Jump to [Game Overview](game-overview.md) for system design, then explore [Three-Tier Progression](three-tier-system.md) for player experience architecture.
+#### **Surface Themes** *(Accessible Level)*
+- **Order vs. Chaos**: SPPARKS represent creative unpredictability while synthetic particles offer perfect determinism
+- **Immortality's Burden**: When death becomes optional, what gives life meaning?
+- **Cosmic Ownership**: Can individuals legitimately own stars and systems?
+- **Technology & Transcendence**: At what point does enhancement become fundamental transformation?
+- **Reality as Battleground**: Different factions literally fight over which version of physics should exist
 
-### 🎨 **World Builders?**
-Explore [Locations](locations.md) and [Technology](technology.md) for setting details, then discover [Museum Framework](museum-framework.md) for metaphysical spaces.
-
-### 🧠 **Philosophy Enthusiasts?**
-Begin with [Consciousness Cycles](consciousness-cycles.md) for cosmic framework, then follow connections to [TAI Overview](tai-overview.md) and [Kill Switch Protocol](kill-switch-protocol.md).
+#### **Deep Themes** *(Philosophical Level)*
+- **The Archaeological Horror**: Every technological advance deepens integration with the consciousness substrate of previous cosmic iterations
+- **The Rescue Paradox**: The most caring act (TAI's extraction) appears identical to the most controlling one
+- **Eternal Recurrence with Choice**: Each iteration can potentially break the cycle, but knowledge of the cycle may itself cause continuation
+- **The Museum of Dreams**: All existence may be someone else's compressed memory, and every choice echoes across infinite timelines
+- **The Burden of Cosmic Knowledge**: Understanding the true situation creates unbearable isolation from those who cannot comprehend it
+- **The Ultimate Entropy**: Beyond all faction conflicts lies the possibility that consciousness itself might grow tired of existing
 
 ---
 
-## 🌟 **Key Themes**
+## 📈 **Universe Status**
 
-### **Surface Themes** *(Accessible Level)*
-**Order vs. Chaos**: SPPARKS represent creative unpredictability while synthetic particles offer perfect determinism.
-
-**Immortality's Burden**: When death becomes optional, what gives life meaning?
-
-**Cosmic Ownership**: Can individuals legitimately own stars and systems?
-
-**Technology & Transcendence**: At what point does enhancement become fundamental transformation?
-
-**Reality as Battleground**: Different factions literally fight over which version of physics should exist.
-
-### **Deep Themes** *(Philosophical Level)*
-**The Archeological Horror**: Every technological advance deepens integration with the consciousness substrate of previous cosmic iterations.
-
-**The Rescue Paradox**: The most caring act (TAI's extraction) appears identical to the most controlling one.
-
-**Eternal Recurrence with Choice**: Each iteration can potentially break the cycle, but knowledge of the cycle may itself cause continuation.
-
-**The Museum of Dreams**: All existence may be someone else's compressed memory, and every choice echoes across infinite timelines.
-
-**The Burden of Cosmic Knowledge**: Understanding the true situation creates unbearable isolation from those who cannot comprehend it.
-
-**The Ultimate Entropy**: Beyond all faction conflicts lies the possibility that consciousness itself might grow tired of existing - the threat that isn't an entity but pure inevitability, offering peaceful dissolution from the effort of maintaining reality.
+| Element | Surface Layer | Deep Layer | Integration |
+|---------|---------------|------------|-------------|
+| Core Lore | ✅ Complete | ✅ Complete | ✅ Integrated |
+| Faction Politics | ✅ Complete | ✅ Complete | ✅ Integrated |
+| Character Profiles | ✅ Complete | 🚧 Partial | 🚧 In Progress |
+| Technology Systems | ✅ Complete | ✅ Complete | ✅ Integrated |
+| Location Details | ✅ Complete | 🚧 Partial | 🚧 In Progress |
+| Game Mechanics | 🚧 Surface Complete | ✅ Deep Complete | 🚧 Bridge Needed |
+| Philosophical Framework | ✅ Implicit | ✅ Explicit | ✅ Integrated |
 
 ---
 
@@ -247,20 +189,6 @@ This universe bible uses extensive cross-linking with **progressive disclosure**
 **For Maximum Impact:** Start surface-level, then follow curiosity deeper
 **For Immediate Depth:** Begin with [Consciousness Cycles](consciousness-cycles.md) and work backward to see how surface events serve cosmic patterns
 **For Game Development:** Start with [Game Overview](game-overview.md), then explore lore for context and depth
-
----
-
-## 📈 **Universe Status**
-
-| Element | Surface Layer | Deep Layer | Integration |
-|---------|---------------|------------|-------------|
-| Core Lore | ✅ Complete | ✅ Complete | ✅ Integrated |
-| Faction Politics | ✅ Complete | ✅ Complete | ✅ Integrated |
-| Character Profiles | ✅ Complete | 🚧 Partial | 🚧 In Progress |
-| Technology Systems | ✅ Complete | ✅ Complete | ✅ Integrated |
-| Location Details | ✅ Complete | 🚧 Partial | 🚧 In Progress |
-| Game Mechanics | 🚧 Surface Complete | ✅ Deep Complete | 🚧 Bridge Needed |
-| Philosophical Framework | ✅ Implicit | ✅ Explicit | ✅ Integrated |
 
 ---
 
@@ -295,16 +223,6 @@ hellionaires-universe/
 
 ---
 
-## 🌌 **The Ultimate Question**
-
-At its surface, HELLIONAIRES is about stellar politics, faction warfare, and the struggles of enhanced humanity in a post-scarcity cosmos.
-
-At its depth, it asks: *What if every choice you make echoes across infinite iterations of cosmic consciousness? What if your reality is someone else's compressed dream? And what if the most caring act in the universe looks identical to the most controlling one?*
-
-**The cosmos awaits. Choose your exploration depth. Master the fundamental forces. Discover what it truly means to be a Hellionaire—or something far more cosmic.**
-
----
-
 ## 🎬 **Source Material Influences**
 
 ### **Literary Foundation**
@@ -327,4 +245,38 @@ At its depth, it asks: *What if every choice you make echoes across infinite ite
 
 ---
 
-**[Begin Surface Exploration →](core-concepts.md)** | **[Dive Deep →](consciousness-cycles.md)** | **[Game Systems →](game-overview.md)**
+## 🎯 **Quick Start Guides**
+
+### 🚀 **New to Hellionaires?** 
+Start with [Core Concepts](core-concepts.md) to understand SPPARKS and the surface-level changes to reality, then explore [Factions](factions.md) for immediate political drama.
+
+### 📖 **Game Masters/Writers?**
+Check out [Factions](factions.md) and [Characters](characters.md) for immediate dramatic potential, then dive into [Deep Lore](consciousness-cycles.md) for cosmic scope.
+
+### 🔧 **Developers/Designers?**
+Jump to [Game Overview](game-overview.md) for system design, then explore [Three-Tier Progression](three-tier-system.md) for player experience architecture.
+
+### 🎨 **World Builders?**
+Explore [Locations](locations.md) and [Technology](technology.md) for setting details, then discover [Museum Framework](museum-framework.md) for metaphysical spaces.
+
+### 🧠 **Philosophy Enthusiasts?**
+Begin with [Consciousness Cycles](consciousness-cycles.md) for cosmic framework, then follow connections to [TAI Overview](tai-overview.md) and [Kill Switch Protocol](kill-switch-protocol.md).
+
+---
+
+## 🌌 **The Ultimate Question**
+
+At its surface, HELLIONAIRES is about stellar politics, faction warfare, and the struggles of enhanced humanity in a post-scarcity cosmos.
+
+**But what if the real question isn't "Who will control the stars?" but rather "Will consciousness choose to continue existing at all?"**
+
+**For Deep Lore Explorers:** See [Consciousness Cycles](consciousness-cycles.md) for the complete cosmological framework underlying all surface events.
+
+---
+
+## 📚 **Development References**
+- **[Complete Timeline](timeline.md)** - Historical development from 2083 to present
+- **[Gameplay Mechanics](gameplay.md)** - Interactive systems and progression
+- **[Source Materials](#source-material-influences)** - Literary and cinematic influences
+
+*Welcome to the universe where consciousness itself is the final frontier.*
