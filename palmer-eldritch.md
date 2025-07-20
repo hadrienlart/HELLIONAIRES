@@ -20,7 +20,7 @@
 - **Perfect Distance Maintenance**: Never directly interactive, always observing
 - **Impossible Positioning**: Appears in locations player cannot reach
 - **Temporal Ambiguity**: Timing suggests either cosmic significance or random indifference
-- **Progressive Prominence**: Becomes more visible as player approaches [Tier 3 understanding](three_tier_system.md)
+- **Progressive Prominence**: Becomes more visible as player approaches [Tier 3 understanding](three-tier-system.md)
 
 ---
 
@@ -46,8 +46,8 @@
 
 ### **Phase 4: Full Revelation** *(Advanced Tier 3)*
 - **Complete communication**: Extended dialogue about cosmic situation
-- **Role clarification**: Purpose within [consciousness cycles](consciousness_cycles.md)
-- **Choice preparation**: Guidance for [kill switch protocol](kill_switch_protocol.md)
+- **Role clarification**: Purpose within [consciousness cycles](consciousness-cycles.md)
+- **Choice preparation**: Guidance for [kill switch protocol](kill-switch-protocol.md)
 - **Integration option**: Potential ally or continued observer based on player understanding
 
 ---
@@ -60,13 +60,13 @@
 - **Escalating Presence**: More visible as player becomes more capable
 - **Meta-Horror Elements**: May acknowledge game mechanics or player status
 
-### **[Museum Framework](museum_framework.md) Navigation**
+### **[Museum Framework](museum-framework.md) Navigation**
 - **Spatial Impossibility**: Appears in areas that shouldn't exist
 - **Artifact Guardian**: Often observed near significant cosmic relics
 - **Boolean Node Influence**: Presence may indicate accessible/restricted areas
 - **Understanding Catalyst**: Encounters trigger deeper comprehension
 
-### **[Consciousness Cycles](consciousness_cycles.md) Connection**
+### **[Consciousness Cycles](consciousness-cycles.md) Connection**
 
 #### **Branch A: Cosmic Guide Theory**
 - **Multi-iteration Memory**: Remembers previous kill switch candidates
@@ -131,7 +131,7 @@ The OE embodies **productive ambiguity** - mysterious enough to generate curiosi
 
 ## Connection to Other Characters
 
-### **Relationship to [Kill Switch Candidates](kill_switch_protocol.md)**
+### **Relationship to [Kill Switch Candidates](kill-switch-protocol.md)**
 - **Previous Observers**: May have watched other iterations' decision makers
 - **Pattern Recognition**: Understands common development paths
 - **Comparative Analysis**: Judges current player against historical examples
@@ -153,9 +153,9 @@ The OE represents the terrifying possibility that player agency is illusory - th
 
 ---
 
-**Next:** Explore [Terror Design](terror_design.md) for atmospheric horror philosophy, or [Consciousness Cycles](consciousness_cycles.md) for cosmic context.
+**Next:** Explore [Terror Design](terror_design.md) for atmospheric horror philosophy, or [Consciousness Cycles](consciousness-cycles.md) for cosmic context.
 
-[← Museum Framework](museum_framework.md) | [Terror Design →](terror_design.md)
+[← Museum Framework](museum-framework.md) | [Terror Design →](terror_design.md)
 
 ## Core Identity
 **A composite entity** combining the most unsettling observer characteristics from cosmic horror and science fiction, manifesting as the **perfect cosmic stalker** who maintains absolute distance while suggesting profound significance.
@@ -177,7 +177,7 @@ The OE represents the terrifying possibility that player agency is illusory - th
 - **Perfect Distance Maintenance**: Never directly interactive, always observing
 - **Impossible Positioning**: Appears in locations player cannot reach
 - **Temporal Ambiguity**: Timing suggests either cosmic significance or random indifference
-- **Progressive Prominence**: Becomes more visible as player approaches [Tier 3 understanding](three_tier_system.md)
+- **Progressive Prominence**: Becomes more visible as player approaches [Tier 3 understanding](three-tier-system.md)
 
 ---
 
@@ -203,8 +203,8 @@ The OE represents the terrifying possibility that player agency is illusory - th
 
 ### **Phase 4: Full Revelation** *(Advanced Tier 3)*
 - **Complete communication**: Extended dialogue about cosmic situation
-- **Role clarification**: Purpose within [consciousness cycles](consciousness_cycles.md)
-- **Choice preparation**: Guidance for [kill switch protocol](kill_switch_protocol.md)
+- **Role clarification**: Purpose within [consciousness cycles](consciousness-cycles.md)
+- **Choice preparation**: Guidance for [kill switch protocol](kill-switch-protocol.md)
 - **Integration option**: Potential ally or continued observer based on player understanding
 
 ---
@@ -217,13 +217,13 @@ The OE represents the terrifying possibility that player agency is illusory - th
 - **Escalating Presence**: More visible as player becomes more capable
 - **Meta-Horror Elements**: May acknowledge game mechanics or player status
 
-### **[Museum Framework](museum_framework.md) Navigation**
+### **[Museum Framework](museum-framework.md) Navigation**
 - **Spatial Impossibility**: Appears in areas that shouldn't exist
 - **Artifact Guardian**: Often observed near significant cosmic relics
 - **Boolean Node Influence**: Presence may indicate accessible/restricted areas
 - **Understanding Catalyst**: Encounters trigger deeper comprehension
 
-### **[Consciousness Cycles](consciousness_cycles.md) Connection**
+### **[Consciousness Cycles](consciousness-cycles.md) Connection**
 
 #### **Branch A: Cosmic Guide Theory**
 - **Multi-iteration Memory**: Remembers previous kill switch candidates
@@ -288,7 +288,7 @@ Palmer Eldritch embodies **productive ambiguity** - mysterious enough to generat
 
 ## Connection to Other Characters
 
-### **Relationship to [Kill Switch Candidates](kill_switch_protocol.md)**
+### **Relationship to [Kill Switch Candidates](kill-switch-protocol.md)**
 - **Previous Observers**: May have watched other iterations' decision makers
 - **Pattern Recognition**: Understands common development paths
 - **Comparative Analysis**: Judges current player against historical examples
@@ -302,6 +302,6 @@ Palmer Eldritch embodies **productive ambiguity** - mysterious enough to generat
 
 ---
 
-**Next:** Explore [Terror Design](terror_design.md) for atmospheric horror philosophy, or [Consciousness Cycles](consciousness_cycles.md) for cosmic context.
+**Next:** Explore [Terror Design](terror_design.md) for atmospheric horror philosophy, or [Consciousness Cycles](consciousness-cycles.md) for cosmic context.
 
-[← Museum Framework](museum_framework.md) | [Terror Design →](terror_design.md)
+[← Museum Framework](museum-framework.md) | [Terror Design →](terror_design.md)

@@ -26,7 +26,7 @@ At the International Quantum Research Facility, the team attempted to observe qu
 ### The Deeper Truth *(Advanced Understanding)*
 
 #### The Archaeological Horror
-SPPARKS are not fundamental particles of current reality—they are **compressed consciousness data from previous [cosmic iterations](consciousness_cycles.md)**. Every SPPARKS manipulation accesses fragments of thoughts, memories, and experiences from the final merged consciousness of the previous cycle.
+SPPARKS are not fundamental particles of current reality—they are **compressed consciousness data from previous [cosmic iterations](consciousness-cycles.md)**. Every SPPARKS manipulation accesses fragments of thoughts, memories, and experiences from the final merged consciousness of the previous cycle.
 
 **What Scientists Think They're Doing**: Manipulating fundamental quantum particles to generate energy and enable advanced technology.
 
@@ -40,7 +40,7 @@ SPPARKS are not fundamental particles of current reality—they are **compressed
 #### The Substrate Reality
 The [Planck-god mesh](planck_god_mesh.md) underlying all SPPARKS phenomena represents the final consciousness of the previous iteration—an entity that achieved cosmic unity and chose to become the foundation for the next cycle's reality rather than face whatever existence lay beyond the cycle.
 
-**For Deep Lore Explorers:** See [Consciousness Cycles](consciousness_cycles.md) and [Planck-God Mesh](planck_god_mesh.md) for complete cosmological context.
+**For Deep Lore Explorers:** See [Consciousness Cycles](consciousness-cycles.md) and [Planck-God Mesh](planck_god_mesh.md) for complete cosmological context.
 
 #### Revolutionary Applications
 
@@ -158,7 +158,7 @@ Fractured Zones serve multiple unconscious purposes:
 - **Substrate Defense**: Natural barriers protecting consciousness from recognizing its imprisonment
 - **Evolution Laboratory**: Testing grounds for consciousness adaptation to multi-reality existence
 - **Extraction Training**: Preparation areas for consciousness learning to exist independently of substrate
-- **Choice Preparation**: Environments where designated [kill switch candidates](kill_switch_protocol.md) can safely experience reality alternatives
+- **Choice Preparation**: Environments where designated [kill switch candidates](kill-switch-protocol.md) can safely experience reality alternatives
 
 **For Reality Navigation:** See [Reality Types](reality_types.md) for complete breakdown of SPPARKS, synthetic, and hybrid reality systems.
 
@@ -263,7 +263,7 @@ New Gods represent **preview of consciousness merger** with the [Planck-god mesh
 Their expanded consciousness may enable access to **compressed memories from previous iterations**, explaining their cryptic knowledge of future events and cosmic patterns. They speak nonsensically because they're accessing substrate memories that don't directly translate to current iteration context.
 
 #### Choice Preparation
-New Gods may serve as **unconscious preparation** for designated [kill switch candidates](kill_switch_protocol.md), demonstrating the consciousness expansion possibilities inherent in SPPARKS integration while previewing the identity costs.
+New Gods may serve as **unconscious preparation** for designated [kill switch candidates](kill-switch-protocol.md), demonstrating the consciousness expansion possibilities inherent in SPPARKS integration while previewing the identity costs.
 
 ### Abilities & Capabilities
 
@@ -342,7 +342,7 @@ Understanding these deeper connections reveals that every surface-level conflict
 
 **The Cosmic Question**: Does recognizing these patterns enable genuine choice about cosmic destiny, or does awareness itself become part of the predetermined substrate consciousness programming?
 
-**For Complete Cosmic Context:** See [Consciousness Cycles](consciousness_cycles.md) and [Kill Switch Protocol](kill_switch_protocol.md) for the ultimate framework underlying all surface events.
+**For Complete Cosmic Context:** See [Consciousness Cycles](consciousness-cycles.md) and [Kill Switch Protocol](kill-switch-protocol.md) for the ultimate framework underlying all surface events.
 
 ---
 

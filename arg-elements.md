@@ -195,7 +195,7 @@
 - **Escalating manifestations**: Increasing cosmic awareness pressure
 - **Reality boundary erosion**: Game world bleeds into actual life
 
-### **[Museum Framework](museum_framework.md) Extension**
+### **[Museum Framework](museum-framework.md) Extension**
 - **Quantum tunneling gaps** manifest in real digital infrastructure
 - **Artifact discovery** influences real-world manifestation patterns
 - **Understanding progression** affects ARG element intensity

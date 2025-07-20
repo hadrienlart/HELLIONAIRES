@@ -223,13 +223,13 @@ Players cannot be fully free until they:
 - **Real-world impact** of cosmic horror philosophy
 - **Player transformation** through controlled terror
 
-### **[Consciousness Cycles](consciousness_cycles.md) Reflection**
+### **[Consciousness Cycles](consciousness-cycles.md) Reflection**
 - **Persistence mechanics** mirror infinite iteration themes
 - **Entity behavior** reflects consciousness cycle patterns
 - **Resolution requirements** align with cosmic understanding
 - **Player journey** parallels consciousness evolution
 
-### **[Museum Framework](museum_framework.md) Extension**
+### **[Museum Framework](museum-framework.md) Extension**
 - **Museum entities** manifest in real digital environment
 - **Artifact discoveries** influence persistence behavior
 - **Understanding progression** affects entity manifestation intensity

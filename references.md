@@ -24,8 +24,8 @@ HELLIONAIRES builds upon proven design patterns while addressing their limitatio
 - **Missed replayability**: No hidden systems unlock with knowledge
 
 #### **HELLIONAIRES Improvements**
-- **[Boolean node system](museum_framework.md)**: Knowledge gates that reward understanding
-- **[Museum exploration](museum_framework.md)**: Non-linear progression through cosmic repository
+- **[Boolean node system](museum-framework.md)**: Knowledge gates that reward understanding
+- **[Museum exploration](museum-framework.md)**: Non-linear progression through cosmic repository
 - **[Knowledge as loadout](gameplay_mechanics.md)**: Understanding unlocks transcendent capabilities
 - **[Reality manipulation growth](cashback_principle.md)**: Same content, fundamentally different with cosmic awareness
 
@@ -126,7 +126,7 @@ HELLIONAIRES builds upon proven design patterns while addressing their limitatio
 - **Consciousness philosophy**: What defines identity and awareness
 - **Paranoid atmosphere**: Uncertainty about who can be trusted
 - **Temporal complexity**: Time as malleable rather than linear
-- **Palmer Eldritch archetype**: Reality-bending entities existing in multiple states (inspiration for [The OE](palmer_eldritch.md))
+- **Palmer Eldritch archetype**: Reality-bending entities existing in multiple states (inspiration for [The OE](palmer-eldritch.md))
 
 ### **The X-Files Model**
 - **Conspiracy layering**: Truth hidden behind multiple deception levels
