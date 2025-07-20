@@ -28,11 +28,21 @@ jobs:
         sed -i 's|narrative-content/||g' docs-readme.md
         sed -i 's|development-process/||g' docs-readme.md
         
-        # Fix specific file name mismatches
-        sed -i 's|historical-timeline\.md|timeline.md|g' docs-readme.md
-        sed -i 's|consciousness-technology\.md|technology.md|g' docs-readme.md
-        sed -i 's|spparks-specification\.md|spparks-system.md|g' docs-readme.md
-        sed -i 's|technical-glossary\.md|core-concepts.md|g' docs-readme.md
+        # Fix ALL markdown files for common underscore patterns
+        find . -name "*.md" -type f -exec sed -i 's|consciousness_cycles\.md|consciousness-cycles.md|g' {} \;
+        find . -name "*.md" -type f -exec sed -i 's|game_overview\.md|game-overview.md|g' {} \;
+        find . -name "*.md" -type f -exec sed -i 's|three_tier_system\.md|three-tier-system.md|g' {} \;
+        find . -name "*.md" -type f -exec sed -i 's|kill_switch_protocol\.md|kill-switch-protocol.md|g' {} \;
+        find . -name "*.md" -type f -exec sed -i 's|museum_framework\.md|museum-framework.md|g' {} \;
+        find . -name "*.md" -type f -exec sed -i 's|fps_tableaux\.md|fps-tableaux.md|g' {} \;
+        find . -name "*.md" -type f -exec sed -i 's|artifact_interaction\.md|artifact-interaction.md|g' {} \;
+        find . -name "*.md" -type f -exec sed -i 's|ripple_effects\.md|ripple-effects.md|g' {} \;
+        find . -name "*.md" -type f -exec sed -i 's|palmer_eldritch\.md|palmer-eldritch.md|g' {} \;
+        find . -name "*.md" -type f -exec sed -i 's|spparks_system\.md|spparks-system.md|g' {} \;
+        find . -name "*.md" -type f -exec sed -i 's|singularity_room\.md|singularity-room.md|g' {} \;
+        
+        # Also fix any remaining gameplay references
+        find . -name "*.md" -type f -exec sed -i 's|]\(gameplay\.md\)|](gameplay-mechanics.md)|g' {} \;
         
     - name: Commit changes
       run: |
