@@ -1,0 +1,39 @@
+name: Fix Hyperlinks
+on:
+  workflow_dispatch:  # Manual trigger only
+  
+jobs:
+  fix-links:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Fix hyperlink naming conventions
+      run: |
+        # Fix references.md
+        sed -i 's|game_overview\.md|game-overview.md|g' references.md
+        sed -i 's|three_tier_system\.md|three-tier-system.md|g' references.md
+        
+        # Fix hellionaires-index.md
+        sed -i 's|gameplay\.md|gameplay-mechanics.md|g' hellionaires-index.md
+        
+        # Fix docs-readme.md directory structure
+        sed -i 's|universe-bible/||g' docs-readme.md
+        sed -i 's|technical-systems/||g' docs-readme.md
+        sed -i 's|game-development/||g' docs-readme.md
+        sed -i 's|narrative-content/||g' docs-readme.md
+        sed -i 's|development-process/||g' docs-readme.md
+        
+        # Fix specific file name mismatches
+        sed -i 's|historical-timeline\.md|timeline.md|g' docs-readme.md
+        sed -i 's|consciousness-technology\.md|technology.md|g' docs-readme.md
+        sed -i 's|spparks-specification\.md|spparks-system.md|g' docs-readme.md
+        sed -i 's|technical-glossary\.md|core-concepts.md|g' docs-readme.md
+        
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git diff --staged --quiet || git commit -m "🔧 Fix hyperlink naming conventions automatically"
+        git push
