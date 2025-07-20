@@ -5,8 +5,12 @@ on:
 jobs:
   fix-links:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # This fixes the permission error
     steps:
     - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Fix hyperlink naming conventions
       run: |
