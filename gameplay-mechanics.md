@@ -105,7 +105,7 @@ When players achieve godlike capabilities, they encounter entities that **move a
 - **Replayability** emerges as layer mastery changes available options
 - **Knowledge as loadout**: Understanding unlocks mechanical possibilities
 
-### [FPS Tableaux](fps-tableaux.md)
+### [FPS Tableaux](fps_tableaux.md)
 - **Memory environments** accommodate all three layers simultaneously
 - **Cosmic-scale spaces** provide opportunities for advanced techniques
 - **Narrative integration**: Player capability determines story accessibility
@@ -135,6 +135,6 @@ When players achieve godlike capabilities, they encounter entities that **move a
 
 ---
 
-**Next:** Explore [Terror Design](terror_design.md) for how enemies scale with player capabilities, or [FPS Tableaux](fps-tableaux.md) for how memories accommodate multiple gameplay layers.
+**Next:** Explore [Terror Design](terror_design.md) for how enemies scale with player capabilities, or [FPS Tableaux](fps_tableaux.md) for how memories accommodate multiple gameplay layers.
 
-[← Three-Tier System](three-tier-system.md) | [Museum Framework →](museum-framework.md)
+[← Three-Tier System](three_tier_system.md) | [Museum Framework →](museum_framework.md)

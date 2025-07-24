@@ -1,7 +1,7 @@
 # Reality Substrate Theories
 
 ## Core Question
-**What is the fundamental nature of reality** underlying all [consciousness cycles](consciousness-cycles.md), [SPPARKS physics](core_concepts.md#spparks-physics), and the [museum framework](museum-framework.md)?
+**What is the fundamental nature of reality** underlying all [consciousness cycles](consciousness_cycles.md), [SPPARKS physics](core_concepts.md#spparks-physics), and the [museum framework](museum_framework.md)?
 
 *"The people look at the AI generated projected shadows in an AR headset, without realizing they actually are only simulacras within the dream of a lonely astronaut drifting in space for 700 generations kept alive and sane through multiple life cycles."*
 
@@ -150,6 +150,6 @@ H's approach: **"I'm still exploring..."**
 
 ---
 
-**Next:** Explore [Consciousness Cycles](consciousness-cycles.md) for cosmic iteration framework, or [Museum Framework](museum-framework.md) for how theories manifest in gameplay.
+**Next:** Explore [Consciousness Cycles](consciousness_cycles.md) for cosmic iteration framework, or [Museum Framework](museum_framework.md) for how theories manifest in gameplay.
 
-[← Core Concepts](core_concepts.md) | [Consciousness Cycles →](consciousness-cycles.md)
+[← Core Concepts](core_concepts.md) | [Consciousness Cycles →](consciousness_cycles.md)

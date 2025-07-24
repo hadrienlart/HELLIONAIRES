@@ -47,12 +47,12 @@ Technical standards for implementing HELLIONAIRES universe concepts while mainta
 - **Scalable complexity** from individual to cosmic-scale interactions
 
 ### **Museum Navigation System**
-**Purpose:** Enable [museum framework](museum-framework.md) exploration with [boolean node](museum-framework.md#boolean-node-system) progression
+**Purpose:** Enable [museum framework](museum_framework.md) exploration with [boolean node](museum_framework.md#boolean-node-system) progression
 
 **Core Features:**
 - **Understanding-based access control** for restricted areas
 - **Procedural gallery generation** based on player choice history
-- **Artifact interaction tracking** for [ripple effects](ripple-effects.md) system
+- **Artifact interaction tracking** for [ripple effects](ripple_effects.md) system
 - **Cross-player influence** for community choice impacts
 
 **Data Management:**
@@ -127,7 +127,7 @@ Technical standards for implementing HELLIONAIRES universe concepts while mainta
 - **Understanding metrics** based on choice patterns and exploration depth
 - **Knowledge graph construction** showing concept interconnection comprehension
 - **Wisdom accumulation** through philosophical engagement measurement
-- **Transcendence readiness** evaluation for [Singularity Room](singularity-room.md) access
+- **Transcendence readiness** evaluation for [Singularity Room](singularity_room.md) access
 
 **Privacy Protection:**
 - **Local processing priority** for sensitive psychological data
@@ -262,6 +262,6 @@ Technical standards for implementing HELLIONAIRES universe concepts while mainta
 
 ---
 
-**Next:** Explore [Safety Protocols](safety_protocols.md) for detailed ethical guidelines, or [Game Overview](game-overview.md) for high-level implementation strategy.
+**Next:** Explore [Safety Protocols](safety_protocols.md) for detailed ethical guidelines, or [Game Overview](game_overview.md) for high-level implementation strategy.
 
 [← HELLIONAIRES Index](hellionaires_index.md) | [Safety Protocols →](safety_protocols.md)

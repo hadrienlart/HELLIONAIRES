@@ -63,5 +63,5 @@
 
 ## Development References
 - [Complete Timeline](timeline.md) - Historical development from 2083 to present
-- [Gameplay Mechanics](gameplay-mechanics.md) - Interactive systems and progression
+- [Gameplay Mechanics](gameplay.md) - Interactive systems and progression
 - [Source Materials](README.md#source-material-influences) - Literary and cinematic influences
