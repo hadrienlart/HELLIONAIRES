@@ -24,8 +24,8 @@ HELLIONAIRES builds upon proven design patterns while addressing their limitatio
 - **Missed replayability**: No hidden systems unlock with knowledge
 
 #### **HELLIONAIRES Improvements**
-- **[Boolean node system](museum_framework.md)**: Knowledge gates that reward understanding
-- **[Museum exploration](museum_framework.md)**: Non-linear progression through cosmic repository
+- **[Boolean node system](museum-framework.md)**: Knowledge gates that reward understanding
+- **[Museum exploration](museum-framework.md)**: Non-linear progression through cosmic repository
 - **[Knowledge as loadout](gameplay_mechanics.md)**: Understanding unlocks transcendent capabilities
 - **[Reality manipulation growth](cashback_principle.md)**: Same content, fundamentally different with cosmic awareness
 
@@ -44,10 +44,10 @@ HELLIONAIRES builds upon proven design patterns while addressing their limitatio
 - **Binary character classes**: Limited expression of philosophical development
 
 #### **HELLIONAIRES Improvements**
-- **[Ambient lore integration](game_overview.md)**: Knowledge "like the air we breathe"
+- **[Ambient lore integration](game-overview.md)**: Knowledge "like the air we breathe"
 - **[Progressive mechanical evolution](gameplay_mechanics.md)**: Understanding changes available tools
 - **[Multiple truth branches](reality_substrate_theories.md)**: Player choice in philosophical framework
-- **[Emergent difficulty](three_tier_system.md)**: Complexity through comprehension rather than statistics
+- **[Emergent difficulty](three-tier-system.md)**: Complexity through comprehension rather than statistics
 
 ---
 
@@ -126,7 +126,7 @@ HELLIONAIRES builds upon proven design patterns while addressing their limitatio
 - **Consciousness philosophy**: What defines identity and awareness
 - **Paranoid atmosphere**: Uncertainty about who can be trusted
 - **Temporal complexity**: Time as malleable rather than linear
-- **Palmer Eldritch archetype**: Reality-bending entities existing in multiple states (inspiration for [The OE](palmer_eldritch.md))
+- **Palmer Eldritch archetype**: Reality-bending entities existing in multiple states (inspiration for [The OE](palmer-eldritch.md))
 
 ### **The X-Files Model**
 - **Conspiracy layering**: Truth hidden behind multiple deception levels
@@ -193,6 +193,6 @@ HELLIONAIRES builds upon proven design patterns while addressing their limitatio
 
 ---
 
-**Next:** Explore specific implementation in [Game Overview](game_overview.md) or [Three-Tier System](three_tier_system.md) for how references integrate into cohesive experience.
+**Next:** Explore specific implementation in [Game Overview](game-overview.md) or [Three-Tier System](three-tier-system.md) for how references integrate into cohesive experience.
 
-[← Game Overview](game_overview.md) | [Three-Tier System →](three_tier_system.md)
+[← Game Overview](game-overview.md) | [Three-Tier System →](three-tier-system.md)

@@ -176,7 +176,7 @@ When players hit **Alt+F4** to escape overwhelming horror:
 - **[High Resonators](characters.md#high-resonators)**: Consciousness evolved beyond individual boundaries
 - **[TAI Entities](tai_overview.md)**: Rescue operations appearing as threats
 - **[New Gods](core_concepts.md#new-gods)**: Transcended humans operating on different reality layers
-- **[Consciousness Cycles](consciousness_cycles.md)**: Entities remember previous iterations
+- **[Consciousness Cycles](consciousness-cycles.md)**: Entities remember previous iterations
 
 ---
 

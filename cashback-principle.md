@@ -26,7 +26,7 @@ The principle operates on **progressive confidence building** followed by **deva
 ## Implementation Framework
 
 ### **Progressive Empowerment**
-Players develop god-like abilities through [museum exploration](museum_framework.md):
+Players develop god-like abilities through [museum exploration](museum-framework.md):
 - **Portal creation** between distant locations
 - **Time dilation/freezing** within tableau memories
 - **Space deconstruction** and reconstruction  
@@ -132,7 +132,7 @@ Ultimate Cashback manifestation:
 - **Lore justification**: Entities exist on different reality layers
 - **Progressive revelation**: Player understanding of cosmic hierarchy
 - **Character development**: From god-complex to cosmic humility
-- **Choice preparation**: Understanding limitations prepares for [kill switch protocol](kill_switch_protocol.md)
+- **Choice preparation**: Understanding limitations prepares for [kill switch protocol](kill-switch-protocol.md)
 
 ---
 
